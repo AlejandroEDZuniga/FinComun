@@ -46,3 +46,13 @@ dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
 2023-09-01 15:20:38,873 - INFO - Se movió EnvioOrdenes1416838115.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
 2023-09-01 15:20:38,880 - INFO - Se movió OrdenesPendientes-442383495.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
 2023-09-01 15:20:38,883 - INFO - Se movió OrdenesRecibidas1950843189.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:44:45,213 - INFO - Sesión iniciada correctamente.
+2023-09-01 15:44:50,983 - INFO - Se accedió al estado de las ordenes correctamente.
+2023-09-01 15:45:31,108 - INFO - Se movió EnvioOrdenes1097099918.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:45:31,109 - INFO - Se movió OrdenesPendientes-414394374.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:45:31,110 - INFO - Se movió OrdenesRecibidas-1337946801.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 16:37:17,011 - INFO - Sesión iniciada correctamente.
+2023-09-01 16:37:23,076 - INFO - Se accedió al estado de las ordenes correctamente.
+2023-09-01 16:38:04,007 - INFO - Se movió EnvioOrdenes817307714.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 16:38:04,008 - INFO - Se movió OrdenesPendientes-356121833.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 16:38:04,012 - INFO - Se movió OrdenesRecibidas-782995332.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY

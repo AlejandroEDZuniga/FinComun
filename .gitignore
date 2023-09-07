@@ -1,0 +1,132 @@
+# Archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Entornos virtuales de Python (por ejemplo, venv, virtualenv)
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Archivo de registro
+*.log
+
+# Carpeta de datos locales (por ejemplo, SQLite)
+.db.sqlite3
+
+# Carpeta de dependencias
+lib/
+libs/
+lib64/
+__pycache__/
+
+# Archivos de configuración de Python
+*.ini
+*.cfg
+*.conf
+
+# Archivos de entorno (por ejemplo, .env, .env.local)
+.env
+.env.local
+
+# Archivos de caché de herramientas (por ejemplo, .pytest_cache)
+__pycache__/
+.cache/
+
+# Archivos de compilación
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Carpeta de resultados de pruebas
+/test-results/
+
+# Carpeta de archivos de generación automática (por ejemplo, coverage, nosetest)
+.coverage
+.tox
+
+# Carpeta de archivos de generación automática (por ejemplo, PyInstaller)
+/dist/
+/build/
+
+# Carpeta de archivos generados por IDEs y editores de texto (por ejemplo, Visual Studio Code)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de registro
+*.log
+logs/
+
+# Carpeta de archivos de usuario y configuración de IDEs (por ejemplo, Visual Studio Code)
+*.swp
+.project
+.pydevproject
+
+# Carpeta de archivos generados por aplicaciones web (por ejemplo, Django)
+media/
+static/
+*.media
+*.static
+
+# Carpeta de archivos generados por herramientas de migración de bases de datos (por ejemplo, Django)
+*.migrations/
+
+# Archivo de configuración de Docker Compose
+docker-compose.yml
+docker-compose.override.yml
+
+# Archivos de caché y registro de Docker
+*.log
+*.gz
+
+# Archivos generados por herramientas de documentación
+docs/_build/
+doc/_build/
+.build/
+
+# Archivos de registro de sistema
+*.swp
+
+# Carpeta de archivos generados por herramientas de automatización (por ejemplo, Ansible)
+.ansible/
+
+# Archivos generados por herramientas de pruebas (por ejemplo, Selenium)
+geckodriver.log
+
+# Archivos generados por herramientas de informes (por ejemplo, Allure)
+allure-report/
+
+# Archivos generados por herramientas de packaging
+*.egg
+*.egg-info
+
+# Carpeta de archivos generados por herramientas de construcción
+dist/
+build/
+
+# Carpetas y archivos generados por Node.js
+node_modules/
+package-lock.json
+
+# Carpeta de archivos generados por TypeScript
+tsconfig.tsbuildinfo
+
+# Archivos y carpetas generados por IDEs de JavaScript/TypeScript (por ejemplo, Visual Studio Code)
+.vscode/
+
+# Carpetas y archivos generados por aplicaciones web de JavaScript (por ejemplo, React, Angular)
+/dist/
+out/
+
+# Carpetas y archivos generados por herramientas de construcción de JavaScript (por ejemplo, Webpack)
+/build/
+/www/
+.DS_Store
