@@ -1,0 +1,48 @@
+2023-09-01 13:14:12,796 - ERROR - Message: Unable to locate element: [name="fmeCuerpo"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 13:17:20,431 - ERROR - Message: Failed to decode response from marionette
+
+2023-09-01 13:22:00,606 - INFO - Sesión iniciada correctamente.
+2023-09-01 13:22:06,486 - INFO - Se accedió al estado de las ordenes correctamente.
+2023-09-01 13:22:47,412 - INFO - Se movió EnvioOrdenes1698899835.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 13:22:47,413 - INFO - Se movió OrdenesPendientes-722356477.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 13:22:47,416 - INFO - Se movió OrdenesRecibidas-1253147625.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 13:47:32,577 - INFO - Sesión iniciada correctamente.
+2023-09-01 13:47:38,352 - INFO - Se accedió al estado de las ordenes correctamente.
+2023-09-01 13:48:18,455 - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\svcmerr\\Desktop\\file_download\\REPORTES KARPAY\\EnvioOrdenes-766231370.xlsx'
+2023-09-01 13:50:10,399 - ERROR - Message: Unable to locate element: [name="fmeCuerpo"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 13:53:13,037 - ERROR - Message: Unable to locate element: [name="fmeCuerpo"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 13:59:41,337 - ERROR - Message: Unable to locate element: [name="fmeCuerpo"]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 15:11:11,071 - INFO - Sesión iniciada correctamente.
+2023-09-01 15:11:16,834 - INFO - Se accedió al estado de las ordenes correctamente.
+2023-09-01 15:11:57,363 - INFO - Se movió EnvioOrdenes-41126885.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:11:57,364 - INFO - Se movió OrdenesPendientes720012221.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:11:57,365 - INFO - Se movió OrdenesRecibidas307878478.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:19:52,427 - INFO - Sesión iniciada correctamente.
+2023-09-01 15:19:58,652 - INFO - Se accedió al estado de las ordenes correctamente.
+2023-09-01 15:20:38,873 - INFO - Se movió EnvioOrdenes1416838115.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:20:38,880 - INFO - Se movió OrdenesPendientes-442383495.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY
+2023-09-01 15:20:38,883 - INFO - Se movió OrdenesRecibidas1950843189.xlsx a C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY

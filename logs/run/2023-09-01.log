@@ -1,0 +1,11 @@
+2023-09-01 13:48:48,668 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 12, in <module>
+    menu_opciones.login()
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 30, in login
+    if  (user_entry.get() == JOSUE_USERNAME and password_entry.get() == JOSUE_PASSWORD) or (user_entry.get() == TONATIU_USERNAME and password_entry.get() == TONATIU_PASSWORD) or (user_entry.get() == ADMIN_USERNAME and password_entry.get() == ADMIN_PASSWORD):
+         ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 3109, in get
+    return self.tk.call(self._w, 'get')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: invalid command name ".!entry"

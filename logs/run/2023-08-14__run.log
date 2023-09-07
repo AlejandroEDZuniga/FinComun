@@ -1,0 +1,52 @@
+2023-08-14 10:31:58,688 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 11, in <module>
+    import menu_opciones
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 4, in <module>
+    import reportes.karpay_operacion as karpay
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\reportes\karpay_operacion.py", line 22
+    ruta_absoluta = "C:\Users\svcmerr\Desktop\pw\Conciliacion"
+                                                              ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+2023-08-14 10:32:05,495 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 11, in <module>
+    import menu_opciones
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 4, in <module>
+    import reportes.karpay_operacion as karpay
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\reportes\karpay_operacion.py", line 22
+    ruta_absoluta = "C:\Users\svcmerr\Desktop\pw\Conciliacion"
+                                                              ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+2023-08-14 10:32:24,157 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 11, in <module>
+    import menu_opciones
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 4, in <module>
+    import reportes.karpay_operacion as karpay
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\reportes\karpay_operacion.py", line 22
+    ruta_absoluta = "C:\Users\svcmerr\Desktop\pw\Conciliacion"
+                                                              ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+2023-08-14 10:58:51,152 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 12, in <module>
+    menu_opciones.login()
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 19, in login
+    if  user_entry.get() == "admin" and password_entry.get() == "1234":
+        ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 3109, in get
+    return self.tk.call(self._w, 'get')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: invalid command name ".!entry"
+2023-08-14 12:33:18,205 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 12, in <module>
+    menu_opciones.login()
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 19, in login
+    if  user_entry.get() == "admin" and password_entry.get() == "1234":
+        ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\tkinter\__init__.py", line 3109, in get
+    return self.tk.call(self._w, 'get')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: invalid command name ".!entry"

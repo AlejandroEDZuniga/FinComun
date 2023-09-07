@@ -1,0 +1,9 @@
+2023-08-29 15:10:15,892 - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\run.py", line 11, in <module>
+    import menu_opciones
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\menu_opciones.py", line 9, in <module>
+    import descarga_archivos.karpay_conexion as karpay
+  File "C:\Users\svcmerr\Desktop\pw\Conciliacion\descarga_archivos\karpay_conexion.py", line 3, in <module>
+    from dotenv import load_dotenv
+ModuleNotFoundError: No module named 'dotenv'

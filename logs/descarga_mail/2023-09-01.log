@@ -1,0 +1,103 @@
+2023-09-01 12:39:39,183 - ERROR - Error al ingresar al correo electrónico: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 12:43:53,815 - ERROR - Error al ingresar al correo electrónico: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 12:46:02,042 - ERROR - Error al ingresar al correo electrónico: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 12:47:05,790 - ERROR - Error al ingresar al correo electrónico: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16
+
+2023-09-01 13:04:26,502 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 13:04:26,502 - INFO - Dentro de la funcion flex. La fecha a buscar es: 
+2023-09-01 13:04:26,503 - INFO - 15-08-2023
+2023-09-01 13:04:55,978 - INFO - Se copió el archivo a: C:\Users\svcmerr\Desktop\file_download\REPORTES FLEX\Reports_BIP_ESP_001_EXRRS024_00480126.xls
+2023-09-01 13:04:55,979 - INFO - Se eliminó el archivo de descargas: C:\Users\svcmerr\Downloads\Reports_BIP_ESP_001_EXRRS024_00480126.xls
+2023-09-01 13:10:00,005 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 13:10:00,005 - INFO - Dentro de la funcion flex. La fecha a buscar es: 
+2023-09-01 13:10:00,005 - INFO - 15-08-2023
+2023-09-01 13:10:27,725 - INFO - Se copió el archivo a: C:\Users\svcmerr\Desktop\file_download\REPORTES FLEX\Reports_BIP_ESP_001_EXRRS024_00480126.xls
+2023-09-01 13:10:27,726 - INFO - Se eliminó el archivo de descargas: C:\Users\svcmerr\Downloads\Reports_BIP_ESP_001_EXRRS024_00480126.xls
+2023-09-01 13:14:43,452 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 13:14:43,452 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 13:14:43,452 - INFO - 15-08-2023
+2023-09-01 13:15:11,708 - INFO - Existe el botón descargar todo
+2023-09-01 13:15:21,971 - INFO - Se encontró el archivo zip: C:\Users\svcmerr\Downloads\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 13:15:21,974 - INFO - Se movió el archivo zip a: C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 13:15:22,008 - INFO - Archivos descomprimidos correctamente.
+2023-09-01 13:15:22,008 - INFO - Archivo zip eliminado.
+2023-09-01 13:50:39,706 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 13:50:39,706 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 13:50:39,706 - INFO - 15-08-2023
+2023-09-01 13:50:48,645 - ERROR - Error al encontrar el elemento Karpay: Message: The element with the reference 4effd543-a032-4950-8935-d1251b3aa6de is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5
+StaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:660:5
+getKnownElement@chrome://remote/content/marionette/json.sys.mjs:286:11
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:233:20
+cloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:48:52
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:48:25
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:240:16
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:54:24
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:240:16
+json.deserialize@chrome://remote/content/marionette/json.sys.mjs:244:10
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:72:30
+
+2023-09-01 13:50:48,645 - ERROR - El asunto del correo no contiene la palabra 'ALERTA ROJA SPEI'.
+2023-09-01 13:53:41,923 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 13:53:41,923 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 13:53:41,923 - INFO - 15-08-2023
+2023-09-01 13:54:11,542 - INFO - Existe el botón descargar todo
+2023-09-01 13:54:21,801 - INFO - Se encontró el archivo zip: C:\Users\svcmerr\Downloads\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 13:54:21,805 - ERROR - Error al obtener los archivos de la instancia KARPAY: [WinError 3] The system cannot find the path specified: 'C:\\Users\\svcmerr\\Downloads\\ALERTA ROJA SPEI A_B 15-08-2023.zip' -> 'C:\\Users\\svcmerr\\Desktop\\file_download\\REPORTES KARPAY\\ALERTA ROJA SPEI A_B 15-08-2023.zip'
+2023-09-01 14:00:11,532 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 14:00:11,532 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 14:00:11,532 - INFO - 15-08-2023
+2023-09-01 14:00:40,187 - INFO - Existe el botón descargar todo
+2023-09-01 14:00:55,515 - INFO - Se encontró el archivo zip: C:\Users\svcmerr\Downloads\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 14:00:55,517 - INFO - Se movió el archivo zip a: C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 14:00:55,549 - INFO - Archivos descomprimidos correctamente.
+2023-09-01 14:00:55,550 - INFO - Archivo zip eliminado.
+2023-09-01 14:06:59,845 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 14:06:59,845 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 14:06:59,845 - INFO - 15-08-2023
+2023-09-01 14:07:31,682 - INFO - Existe el botón descargar todo
+2023-09-01 14:07:46,945 - INFO - Se encontró el archivo zip: C:\Users\svcmerr\Downloads\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 14:07:46,948 - INFO - Se movió el archivo zip a: C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 14:07:46,979 - INFO - Archivos descomprimidos correctamente.
+2023-09-01 14:07:46,980 - INFO - Archivo zip eliminado.
+2023-09-01 15:09:49,497 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 15:09:49,498 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 15:09:49,498 - INFO - 15-08-2023
+2023-09-01 15:10:22,446 - INFO - Existe el botón descargar todo
+2023-09-01 15:10:37,761 - INFO - Se encontró el archivo zip: C:\Users\svcmerr\Downloads\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 15:10:37,765 - INFO - Se movió el archivo zip a: C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 15:10:37,801 - INFO - Archivos descomprimidos correctamente.
+2023-09-01 15:10:37,801 - INFO - Archivo zip eliminado.
+2023-09-01 15:18:33,299 - INFO - Se ha iniciado sesión correctamente
+2023-09-01 15:18:33,422 - INFO - dentro de funcion karpay. La fecha a consultar es: 
+2023-09-01 15:18:33,422 - INFO - 15-08-2023
+2023-09-01 15:19:03,489 - INFO - Existe el botón descargar todo
+2023-09-01 15:19:18,741 - INFO - Se encontró el archivo zip: C:\Users\svcmerr\Downloads\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 15:19:18,747 - INFO - Se movió el archivo zip a: C:\Users\svcmerr\Desktop\file_download\REPORTES KARPAY\ALERTA ROJA SPEI A_B 15-08-2023.zip
+2023-09-01 15:19:18,781 - INFO - Archivos descomprimidos correctamente.
+2023-09-01 15:19:18,784 - INFO - Archivo zip eliminado.
